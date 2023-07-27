@@ -23,5 +23,24 @@ image = client.image_to_image("FELV-cat.jpg", prompt="turn the cat into a tiger"
 image.save("tiger.jpg")
 ```
 
+## Amazing Stable Diffusion Style templates
+### Anime style
+> strength=0.85, guidance_scale=10
+
+<br>
+<img src="https://github.com/fabiomatricardi/diffusersStudy/raw/main/images/singapore12-guidance10.png" height=300>
+
+### Comic art style
+> strength=0.85, guidance_scale=10
+
+<br>
+<img src="https://github.com/fabiomatricardi/diffusersStudy/raw/main/images/singapore13-guidance10.png" height=300>
+
+
+### Fantasy art style
+> strength=0.85, guidance_scale=10
+
+<br>
+<img src="https://github.com/fabiomatricardi/diffusersStudy/raw/main/images/singapore15-fantasyart-guid10.png" height=300>
 
  
